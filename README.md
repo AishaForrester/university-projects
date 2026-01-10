@@ -83,7 +83,15 @@ This repository is a central collection of my projects from the University of th
 * **Description:** A straightforward calculator implementing core functionalities. The source code includes configurations for Karma and Cypress, which are utilized as the primary testing frameworks.  
 * **Academic Year:** 3  
 * **Technology:** HTML, CSS, JavaScript
+---
 
+### 🔹 IslandTrack Transport & Delivery System Documentation
+* **Repo:** [Software Model: Transport and Delivery System](https://github.com/AishaForrester/software-modeling-transport-delivery-system)
+* **Description:** Documentation of a configurable transport and delivery platform for Jamaica, designed using Software Product Line (SPL) principles. The system supports real-time vehicle tracking, reservations (taxis, Uber), and courier deliveries. The documentation includes use case diagrams, activity diagrams, feature diagrams, requirement specifications, design-level diagrams, and object diagrams with simulation aspects, incorporating predicate and clause testing.  
+* **Focus Areas:** Software Product Line engineering, system modeling, real-time mapping, vehicle tracking, booking and delivery features.
+* **Academic Year:** 3
+* **Technology/Tools:** UML diagrams, SPL modeling, simulation for design validation
+---
 
 
 
