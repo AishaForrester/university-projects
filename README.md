@@ -93,5 +93,14 @@ This repository is a central collection of my projects from the University of th
 * **Technology/Tools:** UML diagrams, SPL modeling, simulation for design validation
 ---
 
+### 🔹 Reggae Gender Identity Archive
+* **Repo:** [Digital Archive: The Role of Women in Reggae Music](https://github.com/AishaForrester/reggae-gender-identity-archive)
+* **Description:** A web page that uses pagination to simulate reading a book. It explores the evolution of reggae music
+  from the 1960s to the 2010s, highlighting how women and their representation change over time.
+* **Focus Areas:** Web Development
+* **Academic Year:** 3
+* **Technology/Tools:** HTML, CSS, JavaScript
+---
+
 
 
